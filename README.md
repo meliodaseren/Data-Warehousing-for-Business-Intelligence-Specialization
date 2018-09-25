@@ -1,4 +1,4 @@
-# Coursera: Data Warehousing for Business Intelligence 專項課程
+# Coursera: Data Warehousing for Business Intelligence Specialization
 
 ## Database Management Essentials
 
