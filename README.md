@@ -1,5 +1,7 @@
 # Coursera: Data Warehousing for Business Intelligence Specialization
 
+https://www.coursera.org/specializations/data-warehousing
+
 ## Database Management Essentials
 
 DBMS: MariaDB
